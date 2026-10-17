@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+*.key
+*.pem
+token.json
+*.mp3
+*.wav
+*.m4a
+*.m4s
+*.mp4
+*.mkv
+/tmp/
+out/
